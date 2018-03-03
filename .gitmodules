@@ -1,0 +1,3 @@
+[submodule "linebot/ntcb-9256"]
+	path = linebot/ntcb-9256
+	url = git@github.com:RyHao/line-bot-ntcb-9256.git
